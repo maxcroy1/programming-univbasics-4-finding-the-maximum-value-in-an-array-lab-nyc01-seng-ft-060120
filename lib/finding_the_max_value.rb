@@ -8,4 +8,5 @@ def find_max_value(array)
       high_number = array[i + 1]
     end
   end
+  return high_number
 end
