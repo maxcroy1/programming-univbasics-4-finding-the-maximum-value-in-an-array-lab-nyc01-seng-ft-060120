@@ -1,3 +1,5 @@
+require 'pry'
+
 def find_max_value(array)
   # Add your solution here
   high_number = array[0]
