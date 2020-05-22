@@ -9,6 +9,6 @@ def find_max_value(array)
       high_number = array[i]
     end
   end
-  return high_number
   binding.pry
+  return high_number
 end
